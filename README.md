@@ -111,7 +111,7 @@ forge inspect OracleSwap abi > ../app/src/abi/OracleSwapAbi.json
 
 ## Frontend Application
 ### UI
-![alt text](<截屏2024-06-12 下午11.13.45.png>)
+![alt text](<img1.png>)
 The left side of page is the info of the token pairs of your address and the AMM address.
 The right side of page contains two parts:1.Swap block 2. liquidity block.
 In swap block, you can buy or sell baseToken.
